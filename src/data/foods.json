@@ -1,0 +1,85 @@
+{
+  "divisions": [
+    {
+      "id": "dhaka",
+      "name": "Dhaka",
+      "nameBn": "ঢাকা",
+      "foods": [
+        {"id": "kacchi-biryani", "name": "কচ্ছবিরিয়ানি", "nameEn": "Kacchi Biryani", "district": "dhaka"},
+        {"id": "hilsa-bhapa", "name": "ইলিশ ভাপা", "nameEn": "Hilsa Steamed", "district": "dhaka"},
+        {"id": "frooti", "name": "ফ্রুটি", "nameEn": "Frooti", "district": "dhaka"}
+      ]
+    },
+    {
+      "id": "chattogram",
+      "name": "Chattogram",
+      "nameBn": "চট্টগ্রাম",
+      "foods": [
+        {"id": "chotpoti", "name": "চটপতি", "nameEn": "Chotpoti", "district": "chattogram"},
+        {"id": "fuchka", "name": "ফুঁকা", "nameEn": "Fuchka", "district": "chattogram"},
+        {"id": "tehari", "name": "তেহরি", "nameEn": "Tehari", "district": "chattogram"}
+      ]
+    },
+    {
+      "id": "rajshahi",
+      "name": "Rajshahi",
+      "nameBn": "রাজশাহী",
+      "foods": [
+        {"id": "bhapa-pitha", "name": "ভাপা পিঠা", "nameEn": "Steamed Pitha", "district": "rajshahi"},
+        {"id": "shatkora", "name": "শটকরা", "nameEn": "Shatkora", "district": "rajshahi"},
+        {"id": "pitha", "name": "পিঠা", "nameEn": "Pitha", "district": "rajshahi"}
+      ]
+    },
+    {
+      "id": "khulna",
+      "name": "Khulna",
+      "nameBn": "খুলনা",
+      "foods": [
+        {"id": "roshmalai", "name": "রসমালাই", "nameEn": "Roshmalai", "district": "khulna"},
+        {"id": "bhuni-khichuri", "name": "ভুনী খিচুরি", "nameEn": "Bhuni Khichuri", "district": "khulna"},
+        {"id": "bhapa-pitha", "name": "ভাপা পিঠা", "nameEn": "Steamed Pitha", "district": "khulna"}
+      ]
+    },
+    {
+      "id": "barishal",
+      "name": "Barishal",
+      "nameBn": "বরিশাল",
+      "foods": [
+        {"id": "ilish-bhapa", "name": "ইলিশ ভাপা", "nameEn": "Hilsa Steamed", "district": "barishal"},
+        {"id": "panta-bhat", "name": "পানটা বাত", "nameEn": "Panta Bhat", "district": "barishal"},
+        {"id": "ilish", "name": "ইলিশ", "nameEn": "Hilsa", "district": "barishal"}
+      ]
+    },
+    {
+      "id": "sylhet",
+      "name": "Sylhet",
+      "nameBn": "সিলেট",
+      "foods": [
+        {"id": "shutki-bhapa", "name": "শুশ্কি ভাপা", "nameEn": "Dried Hilsa Steamed", "district": "sylhet"},
+        {"id": "pitha", "name": "পিঠা", "nameEn": "Pitha", "district": "sylhet"},
+        {"id": "chitoi-pitha", "name": "চিটೋই পিঠা", "nameEn": "Chitoi Pitha", "district": "sylhet"}
+      ]
+    },
+    {
+      "id": "rangpur",
+      "name": "Rangpur",
+      "nameBn": "রংপুর",
+      "foods": [
+        {"id": "pitha", "name": "পিঠা", "nameEn": "Pitha", "district": "rangpur"},
+        {"id": "pitha-resi", "name": "পিঠা-রিস", "nameEn": "Pitha Reshmi", "district": "rangpur"},
+        {"id": "sweet", "name": "মিষ্টি", "nameEn": "Sweet", "district": "rangpur"}
+      ]
+    },
+    {
+      "id": "mymensingh",
+      "name": "Mymensingh",
+      "nameBn": "ময়মনসিংহ",
+      "foods": [
+        {"id": "shutki", "name": "শুষ্কি", "nameEn": "Dried Fish", "district": "mymensingh"},
+        {"id": "pitha", "name": "পিঠা", "nameEn": "Pitha", "district": "mymensingh"},
+        {"id": "curry", "name": "কাড়ি", "nameEn": "Curry", "district": "mymensingh"}
+      ]
+    }
+  ],
+  "totalFoods": 25
+}
